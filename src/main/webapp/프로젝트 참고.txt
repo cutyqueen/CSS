@@ -1,0 +1,38 @@
+ [프로젝트 참고]
+★ 다있쏘 템플릿(반응형)
+ https://www.w3schools.com/css/css_rwd_templates.asp
+ 
+★ w3school CSS 효과 소스(힌트)얻기.
+  웹에서 볼 수 있는 다양한 예시들 소스(슬라이드쇼,아코디언,모달,...)
+ https://www.w3schools.com/howto/default.asp 
+
+★ 우수 사이트 모음(벤치마킹) https://www.dbcut.com
+
+★ Free Bootstrap Templates, Theme
+ https://freehtml5.co/
+ https://startbootstrap.com/
+ https://www.bootstrapzero.com/
+ http://bootswatch.com/
+
+★ 이미지 무료사이트
+https://pixabay.com
+https://pexels.com
+
+★ 서체 사이트
+ https://fonts.google.com/
+ dafont.com
+ 1001fonts.com
+
+★ CSS web icon
+https://www.w3schools.com/css/css_icons.asp
+https://www.w3schools.com/icons/icons_reference.asp
+
+★ 추천색상팔레트(이미지에서 색상 추출가능)
+https://color.adobe.com/ko/create/color-wheel
+
+★ css자동생성기 
+ https://www.colorzilla.com/gradient-editor/ (그라데이션)
+ http://css3generator.com
+
+★이미지맵 소스 생성기
+http://maschek.hu/imagemap/imgmap/

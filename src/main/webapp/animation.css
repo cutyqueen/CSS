@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+.pre {white-space: pre;}
+
+
+@keyframes circle {
+	0% {background-color:#f50;
+	   transform:scale(1);
+	   border-radius:0;  }	   
+	   
+  100% {background-color:#05f;
+	   transform:scale(2);
+	   border-radius:50%;  }	
+}
+
+#sec01>div {background-color:#f50;
+width: 100px; height: 100px;
+text-align: center;
+line-height:100px; 
+display:inline-block; 
+margin:100px;
+animation:circle 4s;}
+
+.an02 {animation-iteration-count:4 !important;}
+.an03 {animation-direction:reverse !important;}
+.an04 {animation-iteration-count:4 !important;
+ animation-direction:alternate !important;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

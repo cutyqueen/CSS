@@ -1,0 +1,18 @@
+
+#sam>p {display: none;}
+
+#btn1, #btn2 {display: none;}
+#btn1:checked~.p01 {
+	display: inline-block; } 
+
+#btn2:checked~.p01 {display: none; } 
+
+
+<div id="sam">
+ <label for="btn1">btn1</label>
+ <input type="radio" id="btn1" name="bn">
+ <label for="btn2">btn2</label>
+ <input type="radio" id="btn2" name="bn">
+  <p class="p01">p01</p>
+  <p class="p02">p02</p>
+</div>
